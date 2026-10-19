@@ -1,0 +1,6 @@
+{
+  "name": "Notes Maker",
+  "description": "Audio recorder and AI note taker integrating direct phone recording and ESP32 hardware via Wi-Fi AP, with Groq Whisper transcription and LLM note generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

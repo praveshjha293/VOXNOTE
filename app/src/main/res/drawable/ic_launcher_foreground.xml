@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Note Page with folded corner -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M34,26 L62,26 L74,38 L74,80 C74,82.2 72.2,84 70,84 L34,84 C31.8,84 30,82.2 30,80 L30,30 C30,27.8 31.8,26 34,26 Z" />
+    
+    <!-- Folded corner tab -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M62,26 L62,38 L74,38 Z" />
+    
+    <!-- Sound wave audio bars on note -->
+    <!-- Bar 1 -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M38,58 L42,58 L42,66 L38,66 Z" />
+    <!-- Bar 2 -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M44,52 L48,52 L48,72 L44,72 Z" />
+    <!-- Bar 3 -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M50,46 L54,46 L54,78 L50,78 Z" />
+    <!-- Bar 4 -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M56,50 L60,50 L60,74 L56,74 Z" />
+    <!-- Bar 5 -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M62,56 L66,56 L66,68 L62,68 Z" />
+
+    <!-- Top note header lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,36 L54,36 L54,38 L38,38 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,42 L48,42 L48,44 L38,44 Z" />
+
+    <!-- Microphone accent badge in bottom right -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M66,74 A9,9 0 1,0 66,74 Z" />
+</vector>
